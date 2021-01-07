@@ -1,0 +1,1 @@
+npm install -save-dev copy-webpack-plugin @babel/core @babel/preset-env less webpack-cli webpack
